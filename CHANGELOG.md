@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.1.1](https://github.com/Flagsmith/flagsmith-flutter-client/compare/v6.1.0...v6.1.1) (2026-02-07)
+
+
+### Other
+
+* Remove amannn/action-semantic-pull-request workflow ([#88](https://github.com/Flagsmith/flagsmith-flutter-client/issues/88)) ([de261f6](https://github.com/Flagsmith/flagsmith-flutter-client/commit/de261f67f0a40ee58f5990cd65866f7a72dd7264))
+
 ## [6.1.0](https://github.com/Flagsmith/flagsmith-flutter-client/compare/v6.0.3...v6.1.0) (2025-11-07)
 
 
